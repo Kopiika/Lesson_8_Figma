@@ -74,7 +74,11 @@
 	margin-bottom: 0;
 }
 
-.buttom{
+.list-section2{
+	margin-bottom: 26px;
+}
+
+.button{
 	display: inline-block;
 	min-width: 161px;
 	max-height: 44px;
@@ -85,11 +89,12 @@
 	font-weight: 700;
 	line-height: 3.14;
 	font-size: 14px;
-
-	margin-top: 26px;
 	margin-bottom: 50px;
 }
 
+.button:hover{
+	background: linear-gradient(55.95deg, #f7534d 0%, #f08140 100%);
+}
 
 /* MatoaWebsiteRedesign */
 
